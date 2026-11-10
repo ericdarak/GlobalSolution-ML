@@ -19,7 +19,7 @@
 | Problema, em uma frase | O passageiro não sabe com antecedência se a estação vai estar mais cheia ou mais vazia que o normal |
 | Como funciona | Um modelo de Machine Learning prevê as entradas de cada estação no dia e transforma a previsão em um nível simples: tranquilo, normal ou cheio |
 | O que cada parte faz (ML) | Treina um Random Forest com dados reais do Metrô SP e entrega a previsão de lotação por estação e dia |
-| Link do repositório | (preencher) |
+| Link do repositório | https://github.com/ericdarak/GlobalSolution-ML |
 | Indicador de impacto | Erro médio da previsão (MAE) e % de acerto do nível de lotação (89,2% em 2026) |
 | ODS conectados | ODS 11, ODS 9 e ODS 10 |
 
